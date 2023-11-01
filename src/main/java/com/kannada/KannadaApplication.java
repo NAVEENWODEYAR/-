@@ -4,10 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KannadaApplication {
+public class KannadaApplication
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		SpringApplication.run(KannadaApplication.class, args);
+		System.out.println("\n Kannada Tayi");
 	}
 
 }
