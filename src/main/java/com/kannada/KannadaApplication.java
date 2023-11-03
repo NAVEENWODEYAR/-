@@ -10,7 +10,7 @@ public class KannadaApplication
 	public static void main(String[] args)
 	{
 		SpringApplication.run(KannadaApplication.class, args);
-		System.out.println("\n******Kannada Tayi******\n");
+		System.out.println("\n******Kannada Kasturi******\n");
 	}
 
 }
